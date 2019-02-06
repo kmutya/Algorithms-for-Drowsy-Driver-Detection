@@ -4,10 +4,10 @@ Drowsy detection algorithms are/have been developed using machine learning and s
 
 Below is a plot of the AUC curve compared against SOTA TSC algorithms namely: Bag of symbols in vector space (BOSSVS) and Symbolic Aggregate approximation and Vector Space Model (SAX-VSM)
 
-![Alt text](https://github.com/kmutya/Algorithms-for-Drowsy-Driver-Detection/blob/master/Analysis/Final_smoothed.jpg "AUC plot of all the models")
+![AUC plot of all the models](https://github.com/kmutya/Algorithms-for-Drowsy-Driver-Detection/blob/master/Analysis/Final_smoothed.jpg "AUC plot of all the models")
 
 Below is the architecture of the CNN used:
 
-![Architecture of the CNN model](Algorithms-for-Drowsy-Driver-Detection/convnet-drawer-master/CNN.jpg)
+![Architecture of the CNN model](https://github.com/kmutya/Algorithms-for-Drowsy-Driver-Detection/blob/master/convnet-drawer-master/CNN.jpg)
 
 LSTM-CNN implementation was from this paper : https://arxiv.org/pdf/1709.05206.pdf
